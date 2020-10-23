@@ -1,5 +1,6 @@
 # This repository shares the code for our paper:
-#Opinion Dynamics with Varying Susceptibility to Persuasion via Non-Convex Local Search
+
+# Opinion Dynamics with Varying Susceptibility to Persuasion via Non-Convex Local Search
 
 REDIET ABEBE, UC Berkeley
 
